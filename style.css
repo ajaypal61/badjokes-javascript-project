@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background: rgb(0, 0, 0);  
+}
+
+
+.container{
+    background: rgb(252, 253, 254);
+    margin: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    margin: 2rem 0 1rem 0;
+    /* color: aqua; */
+}
+
+.joke{
+    margin: 1rem 0 1rem 0;
+    /* color: aqua; */
+}
+
+.btn{
+    margin: 1rem 0 2rem 0;
+    color: rgb(213, 223, 223);
+    cursor: pointer;
+    background-color: rebeccapurple;
+    /* margin: 50px; */
+    padding: 10px;
+    font-size: medium;
+    border-radius: 5px;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn:hover{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
